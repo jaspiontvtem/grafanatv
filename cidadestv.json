@@ -1,0 +1,96 @@
+[
+  {
+    "key" : "IT",
+    "name" : "Itapetininga",
+    "latitude" : -23.580688361448534,
+    "longitude" : -48.03718204463164
+  },
+  {
+    "key" : "SO",
+    "name" : "Sorocaba",
+    "latitude" : -23.470715680886755,
+    "longitude" : -47.487665063597845
+  },
+  {
+    "key" : "IU",
+    "name" : "Itupararanga",
+    "latitude" : -23.61868641261111,
+    "longitude" : -47.31614900269246
+  },
+  {
+    "key" : "JU",
+    "name" : "Jundiaí",
+    "latitude" : -23.185258841300232,
+    "longitude" : -46.889881378798975
+  },
+  {
+    "key" : "JA",
+    "name" : "Japi",
+    "latitude" : -23.242559283419453,
+    "longitude" : -46.90283872590245
+  },
+  {
+    "key" : "JR",
+    "name" : "Jaraguá",
+    "latitude" : -23.458769702001376,
+    "longitude" : -46.76667195249691
+  },
+  {
+    "key" : "TR",
+    "name" : "Tarumã",
+    "latitude" : -23.47254899192575,
+    "longitude" : -46.88956311635888
+  },
+  {
+    "key" : "BA",
+    "name" : "Bauru",
+    "latitude" : -22.315153774069792,
+    "longitude" : -49.07063930087829
+  },
+  {
+    "key" : "BO",
+    "name" : "Botucatu",
+    "latitude" : -22.885522173172305,
+    "longitude" : -48.44128231458518
+  },
+  {
+    "key" : "MA",
+    "name" : "Marília",
+    "latitude" : -22.21432022239642,
+    "longitude" : -49.93985495795996
+  },
+  {
+    "key" : "SJ",
+    "name" : "Sjrp",
+    "latitude" : -20.809362337765567,
+    "longitude" : -49.37619889007958
+  },
+  {
+    "key" : "AR",
+    "name" : "Araçatuba",
+    "latitude" : -21.205808093405174,
+    "longitude" : -50.43407300432596
+  },
+  {
+    "key" : "GA",
+    "name" : "Garça",
+    "latitude" : -22.212876850108582,
+    "longitude" : -49.6559066564587
+  },
+  {
+    "key" : "BI",
+    "name" : "Birigui",
+    "latitude" : -21.28045262456176,
+    "longitude" : -50.333125990129446
+  },
+  {
+    "key" : "ME",
+    "name" : "Mendonça",
+    "latitude" : -21.183355329333033,
+    "longitude" : -49.5796820912128
+  }
+]
+
+
+
+
